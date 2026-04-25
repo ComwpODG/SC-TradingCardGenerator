@@ -1,4 +1,5 @@
 # SC Trading Card Generator
+![An image of the aforementioned trading cards.](image.png)
 ---
 THIS REPOSITORY USES IMAGES HOSTED ON THESE AVAILABLE WIKIPEDIAS
 - https://wiki.star-conflict.com/index.php?title=Ship
