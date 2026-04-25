@@ -1,5 +1,12 @@
-# CardGenerator
-
+# SC Trading Card Generator
+---
+THIS REPOSITORY USES IMAGES HOSTED ON THESE AVAILABLE WIKIPEDIAS
+- https://wiki.star-conflict.com/index.php?title=Ship
+- https://wiki.star-conflict.com/index.php?title=Interceptor
+- https://wiki.star-conflict.com/index.php?title=Fighter
+- https://wiki.star-conflict.com/index.php?title=Frigate
+- https://wiki.star-conflict.com/index.php?title=Destroyer
+---
 Simple WinForms tool for generating custom ship/player cards using GDI+.
 
 ## Features
